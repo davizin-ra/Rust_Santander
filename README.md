@@ -2,7 +2,11 @@
 
 Material produzido no Santander Bootcamp 2026 - 1º Semestre, referente a programação Rust FullStack
 
-<img src="https://assets.santanderopenacademy.com/uploaded/programs/887839b8-8dd3-43e4-8da6-90075e0c6f96" style="display: block; margin: auto; width: 50%;">
+<p align="center">
+  <img 
+    src="https://assets.santanderopenacademy.com/uploaded/programs/887839b8-8dd3-43e4-8da6-90075e0c6f96"
+    width="100%" height=400px>
+</p>
 
 ## Códigos
 
