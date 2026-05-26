@@ -22,3 +22,6 @@ Rodar aplicação
 
 #### [Aula - 01](Aula01)
 Setup e Ambiente de Desenvolvimento com Rust
+
+#### [Aula - 02](Aula02)
+Fundamentos do Rust - Variáveis e condicionais ( If/Else, Match )
